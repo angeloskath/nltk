@@ -84,3 +84,4 @@ from nltk.cluster.util import (VectorSpaceClusterer, Dendrogram,
 from nltk.cluster.kmeans import KMeansClusterer
 from nltk.cluster.gaac import GAAClusterer
 from nltk.cluster.em import EMClusterer
+from nltk.cluster.hierarchical import HierarchicalClusterer
